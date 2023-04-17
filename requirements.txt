@@ -1,2 +1,2 @@
 PySide2
-Qt5.py
+Qt.py
