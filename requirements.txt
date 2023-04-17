@@ -1,1 +1,2 @@
-git+https://github.com/hannesdelbeke/unreal_qt
+PySide2
+Qt5.py

@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Python Script Editor",
+	"Description": "A Python script editor",
+	"Category": "tool",
+	"CreatedBy": "Lei Xingyu & Hannes D",
+	"CreatedByURL": "https://github.com/leixingyu/unrealScriptEditor",
+	"DocsURL": "https://github.com/leixingyu/unrealScriptEditor",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/leixingyu/unrealScriptEditor/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		}
+	]
+}
