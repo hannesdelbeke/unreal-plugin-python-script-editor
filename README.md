@@ -1,5 +1,6 @@
 # unrealScriptEditor-plugin
 A plugin wrapper for Lei Xingyu's unrealScriptEditor.
+![](https://camo.githubusercontent.com/043f1b6edea7f5e80a6f55f139d623047ed75c12765e25c891a9d387570933f8/68747470733a2f2f692e696d6775722e636f6d2f4b736369786c552e706e67)
 
 See original [docs](UnrealScriptEditor/Content/Python/unrealScriptEditor/README.md)
 
