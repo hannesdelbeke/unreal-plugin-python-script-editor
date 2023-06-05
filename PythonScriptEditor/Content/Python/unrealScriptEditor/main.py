@@ -20,7 +20,6 @@ MODULE_NAME = os.path.basename(MODULE_PATH)
 UI_PATH = os.path.join(MODULE_PATH, 'ui', 'script_editor.ui')
 CONFIG_PATH = os.path.join(MODULE_PATH, 'config.txt')
 
-print("MODULE_PATH=======================", MODULE_PATH)
 
 class TabConfig(namedtuple('TabConfig', ['index', 'label', 'active', 'command'])):
     """
@@ -316,9 +315,6 @@ def show():
     global WINDOW
 
     APP = QtWidgets.QApplication.instance() or QtWidgets.QApplication(sys.argv)
-
-    QtCore.QResource.registerResource(
-        os.path.join(MODULE_PATH, "icons", "icons.rcc"))
 
     # stylesheet
     QtCore.QResource.registerResource(
