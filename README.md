@@ -26,3 +26,7 @@ plugget.install("unreal-script-editor")
 
 #### dependencies install
 - TODO Manual installing dependencies, pip instructions
+
+## Community
+- unreal forum [thread](https://forums.unrealengine.com/t/free-plugin-python-script-editor/1192090)
+- tech-artists.org [thread](https://discourse.techart.online/t/free-plugin-python-script-editor/15918)
