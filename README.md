@@ -19,13 +19,11 @@ plugget.install("unreal-script-editor")
 
 #### plugin install
 - Copy the unrealScriptEditor folder to your unreal plugin folder. either in your project, or in `C:\Program Files\Epic Games\UE_5.0\Engine\Plugins`, or see [UE plugin docs](https://docs.unrealengine.com/5.0/en-US/plugins-in-unreal-engine/)
+- Manually install the dependencies with pip from the `requirements.txt` file
 - Start Unreal, and go to the menu `Edit/Plugins`
 - Search for `python script editor` and enable the plugin named `python script editor`, do not this confuse with `python editor script plugin`
 - Restart Unreal, a button should now appear the tool bar
 <img width="590" alt="image" src="https://user-images.githubusercontent.com/3758308/232469631-7b457d0c-3f18-409c-b725-8f8d1cb0de01.png">
-
-#### dependencies install
-- TODO Manual installing dependencies, pip instructions
 
 ## Community
 - unreal forum [thread](https://forums.unrealengine.com/t/free-plugin-python-script-editor/1192090)
