@@ -34,3 +34,4 @@ plugget.install("unreal-script-editor")
 ## Alternatives
 Listing similar products
 - https://www.unrealengine.com/marketplace/en-US/product/python-editor
+- https://github.com/zkarmakun/PythonEditor
