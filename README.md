@@ -30,3 +30,7 @@ plugget.install("unreal-script-editor")
 ## Community
 - unreal forum [thread](https://forums.unrealengine.com/t/free-plugin-python-script-editor/1192090)
 - tech-artists.org [thread](https://discourse.techart.online/t/free-plugin-python-script-editor/15918)
+
+## Alternatives
+Listing similar products
+- https://www.unrealengine.com/marketplace/en-US/product/python-editor
