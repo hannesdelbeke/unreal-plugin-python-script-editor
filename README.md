@@ -12,7 +12,7 @@ Installation with plugget automatically installs all dependencies.
 2. Run these 2 Python commands: (in the bottom left of the Unreal editor) 
 ```python
 import plugget
-plugget.install("unreal-script-editor")
+plugget.install("unreal-plugin-script-editor")
 ```
 
 ### Manual install
