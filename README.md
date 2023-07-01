@@ -7,7 +7,7 @@ See original [docs](PythonScriptEditor/Content/Python/unrealScriptEditor/README.
 
 ## Installation
 ### Plugget install (recommended)
-Installation with plugget automatically installs all dependencies.
+Installation with plugget automatically installs all dependencies. (from the [manifest](https://github.com/plugget/plugget-pkgs/blob/main/unreal/python-script-editor/latest.json))
 1. Install the [plugget Unreal plugin](https://github.com/hannesdelbeke/plugget-unreal)
 2. Run these 2 Python commands: (in the bottom left of the Unreal editor) 
 ```python
