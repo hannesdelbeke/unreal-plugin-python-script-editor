@@ -1,4 +1,4 @@
 PySide2
 Qt.py
 unreal-stylesheet
-git+https://github.com/hannesdelbeke/unreal-script-editor
+unreal-script-editor
