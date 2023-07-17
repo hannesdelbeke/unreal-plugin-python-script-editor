@@ -1,4 +1,2 @@
 PySide2
-Qt.py
-unreal-stylesheet
 unreal-script-editor
